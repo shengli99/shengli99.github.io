@@ -2,7 +2,7 @@
 
 <h2 style="margin:36px 0 0 0;">Services</h2>
 
-<h4 style="margin:15px 10px 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:10px 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2023, 2024</autocolor></a></li>
