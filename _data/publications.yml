@@ -1,0 +1,54 @@
+main:
+
+  - title: "A Computation and Energy Efficient Hardware Architecture for SSL Acceleration"
+    authors: Huidong Ji, <strong>Sheng Li</strong>, Yue Cao, Chen Ding, Jiawei Xu, Qitao Tan, Ao Li, Jun Liu, Xulong Tang, Lirong Zheng, Geng Yuan, Zhuo Zou
+    # conference_short: ASP-DAC
+    conference: In Proceedings of 30th Asia and South Pacific Design Automation Conference <strong>(ASP-DAC 2025)</strong>
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: To Appear
+
+  - title: "Waxing-and-Waning: a Generic Similarity-based Framework for Efficient Self-Supervised Learning"
+    authors: <strong>Sheng Li</strong>, Chao Wu, Ao Li, Yanzhi Wang, Xulong Tang, Geng Yuan
+    # conference_short: ICLR
+    conference: In Proceedings of 12th International Conference on Learning Representations <strong>(ICLR 2024)</strong>
+    pdf: https://openreview.net/pdf?id=TilcG5C8bN
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: "SmartFRZ: An Efficient Training Framework using Attention-Based Layer Freezing"
+    authors: <strong>Sheng Li*</strong>, Geng Yuan*, Yue Dai*, Youtao Zhang, Yanzhi Wang, Xulong Tang
+    # conference_short: ICLR
+    conference: In Proceedings of 11th International Conference on Learning Representations <strong>(ICLR 2023)</strong>
+    pdf: https://openreview.net/pdf?id=i9UlAr1T_xl
+    notes: Spotlight Award
+
+  - title: "ETuner: A Redundancy-Aware Framework for Efficient Continual Learning Application on Edge Devices"
+    authors: <strong>Sheng Li</strong>, Geng Yuan, YawenWu, Yue Dai, TianyuWang, ChaoWu, Alex K. Jones, Jingtong Hu, Yanzhi Wang, Xulong Tang
+    conference: <strong>(Preprint)</strong>
+    pdf: https://arxiv.org/pdf/2401.16694
+
+  - title: "Improving GPU Multi-Tenancy Through Dynamic Multi-Instance GPU Reconfiguration"
+    authors: Tianyu Wang*, <strong>Sheng Li*</strong>, Bingyao Li, Yue Dai, Ao Li, Geng Yuan, Yufei Ding, Youtao Zhang, Xulong Tang.
+    conference: <strong>(Preprint)</strong>
+    pdf: https://arxiv.org/pdf/2407.13126
+  
+  - title: "Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training"
+    authors: Geng Yuan*, Yanyu Li*, <strong>Sheng Li</strong>, Zhenglun Kong, Sergey Tulyakov, Xulong Tang, Yanzhi Wang, Jian Ren
+    conference: In Proceedings of the 36th Conference on Neural Information Processing Systems <strong>(NeurIPS 2022)</strong>
+    pdf: https://arxiv.org/pdf/2209.11204
+  
+  - title: "Sustainable AI Processing at the Edge"
+    authors: Sebastien Ollivier, <strong>Sheng Li</strong>, Yue Tang, Stephen Cahoon, Ryan Caginalp, Chayanika Chaudhuri, Peipei Zhou, Xulong Tang, Jingtong Hu, Alex K. Jones
+    conference: <strong>(IEEE Micro 2022)</strong>
+    pdf: https://arxiv.org/pdf/2207.01209
+  
+  - title: "Optimizing Data Layout for Training Deep Neural Networks"
+    authors: Bingyao Li*, Qi Xue*, Geng Yuan*, <strong>Sheng Li</strong>, Xiaolong Ma, YanzhiWang, and Xulong Tang
+    conference: In Companion Proceedings of the Web Conference 2022 <strong>(WWW 2022 workshop)</strong>
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3487553.3524856
