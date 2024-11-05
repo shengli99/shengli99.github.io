@@ -8,9 +8,8 @@ nav_order: 5
 ---
 
 
-<p>You can view my full Curriculum Vitae below:</p>
-  <object data="/assets/pdf/Academic_CV_of_Sheng_Li.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>Unable to display PDF file. <a href="/assets/pdf/Academic_CV_of_Sheng_Li.pdf">View PDF</a> instead.</p>
+<object data="/assets/pdf/Academic_CV_of_Sheng_Li.pdf" type="application/pdf" width="100%" height="1000px">
+  <p>Unable to display CV PDF file. <a href="/assets/pdf/Academic_CV_of_Sheng_Li.pdf">Download PDF</a> instead.</p>
 </object>
 
 
