@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shengli99.github.io/sitemap.xml
