@@ -22,7 +22,11 @@ social: false # includes social icons at the bottom of the page
 Hi! I am Sheng Li. I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree in Software Engineering from [Sichuan University](https://en.scu.edu.cn/), China, in 2020. 
 My research focuses on designing and optimizing efficient machine learning algorithms and systems, targeting both resource-constrained edge devices and powerful cloud servers. I am also interested in optimizing Generative AI (e.g., diffusion models) and 3D-related (e.g., 3D Gaussian Splatting and text-to-3d applications) algorithms and systems.
 
-:sparkles: I am currently seeking internship opportunities as a research scientist, applied scientist, machine learning engineer, or software development engineer. Please feel free to contact me with any potential roles.
+<!-- :sparkles: I am currently seeking internship opportunities as a research scientist, applied scientist, machine learning engineer, or software development engineer. Please feel free to contact me with any potential roles. -->
+
+
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
