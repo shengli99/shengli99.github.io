@@ -13,9 +13,10 @@ nav_order: 4
 
 <ul style="margin:0 0 30px;">
   <li><a href="https://neurips.cc/">Annual Conference on Neural Information Processing Systems (NeurIPS) 2023, 2024, 2025</a></li>
-  <li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR) 2024, 2025</a></li>
+  <li><a href="https://iclr.cc/">International Conference on Learning Representations (ICLR) 2024, 2025, 2026</a></li>
   <li><a href="https://icml.cc/">International Conference on Machine Learning (ICML) 2025</a></li>
-  <li><a href="https://aaai.org/">Annual AAAI Conference on Artificial Intelligence (AAAI) 2025</a></li>
+  <li><a href="https://cvpr.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</a></li>
+  <li><a href="https://aaai.org/">Annual AAAI Conference on Artificial Intelligence (AAAI) 2026</a></li>
   <li><a href="https://www.acml-conf.org/">Asian Conference on Machine Learning (ACML) 2024, 2025</a></li>
 </ul>
 

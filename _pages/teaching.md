@@ -22,17 +22,24 @@ nav_order: 3
 
 <!-- <h2 style="margin:20px 10px 10px;">Conference Reviewers</h2> -->
 
+
 <ul style="margin:0 0 30px;">
+    <li>
+        Teaching Assistant for <strong>CS 1501: Algorithms and Data Structures</strong>
+    </li>
+    <li>
+        Teaching Assistant for <strong>CS 0447: Computer Organization and Assembly Language</strong>
+    </li>
+</ul>
+
+<!-- <ul style="margin:0 0 30px;">
     <li>
         <strong>Fall 2022:</strong> Teaching Assistant for <em>CS 1501: Algorithms and Data Structures</em>
     </li>
     <li>
-        <strong>Spring 2022:</strong> Teaching Assistant for <em>CS 0447: Computer Organization and Assembly Language</em>
+        <strong>Fall 2025, Spring 2022, Fall 2021:</strong> Teaching Assistant for <em>CS 0447: Computer Organization and Assembly Language</em>
     </li>
-    <li>
-        <strong>Fall 2021:</strong> Teaching Assistant for <em>CS 0447: Computer Organization and Assembly Language</em>
-    </li>
-</ul>
+</ul> -->
 
 
 
