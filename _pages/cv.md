@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/
-title:  CV (updated 11/2025)
-# description: Professional services.
+title:  CV
+description: Last updated: 11/2025
 nav: true
 nav_order: 5
 ---
