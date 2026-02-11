@@ -19,9 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am Sheng Li. I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree in Software Engineering from [Sichuan University](https://en.scu.edu.cn/), China, in 2020. 
+<p>
+  Hi! I am Sheng Li. I am currently a Ph.D. student in
+  <a href="https://www.cs.pitt.edu/">Department of Computer Science</a> at the
+  <a href="https://www.pitt.edu/">University of Pittsburgh</a>, advised by
+  <a href="https://xzt102.github.io/">Dr. Xulong Tang</a>. I received my B.E. degree in Software Engineering from
+  <a href="https://en.scu.edu.cn/">Sichuan University</a>, China, in 2020.
+</p>
 
-My research focuses on designing and optimizing Efficient Machine Learning Algorithms and Systems, spanning applications in Diffusion-based Video Generation, RAG-enabled LLM Serving, Self-supervised Contrastive Learning, Supervised Model Training, and 3D Gaussian Splatting. My research targets platforms ranging from large-scale cloud clusters to resource-constrained edge devices.
+<p>
+  My research focuses on designing and optimizing Efficient Machine Learning Algorithms and Systems, spanning applications in Diffusion-based Video Generation, RAG-enabled LLM Serving, Self-supervised Contrastive Learning, Supervised Model Training, and 3D Gaussian Splatting. My research targets platforms ranging from large-scale cloud clusters to resource-constrained edge devices.
+</p>
 
 <p class="about-job-note">&#10024; I am currently seeking both full-time and internship opportunities in positions including, but not limited to, Research Scientist, Applied Scientist, Research Engineer, Machine Learning Engineer, and Software Development Engineer. Please feel free to contact me if you have any suitable opportunities.</p>
 
