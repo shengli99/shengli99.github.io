@@ -227,6 +227,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.about-job-note {
+  clear: right;
+}
+
+@media (min-width: 576px) {
+  .about-job-note {
+    max-width: calc(70% - 1rem);
+  }
+}
+
+.about-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  text-align-last: left;
+  hyphens: auto;
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

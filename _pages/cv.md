@@ -2,11 +2,12 @@
 layout: page
 permalink: /cv/
 title:  CV
-description: Last updated (11/2025)
+# description: Last updated (11/2025)
 nav: true
 nav_order: 5
 ---
 
+<p class="post-description"><strong>Last updated:</strong> November 2025</p>
 
 <object data="/assets/pdf/CV_of_Sheng_Li.pdf" type="application/pdf" width="100%" height="1000px">
   <p>Unable to display CV PDF file. <a href="/assets/pdf/CV_of_Sheng_Li.pdf">Download PDF</a> instead.</p>
