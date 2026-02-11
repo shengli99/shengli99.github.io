@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title:  CV
-description: Last updated: 11/2025
+description: Last updated (11/2025)
 nav: true
 nav_order: 5
 ---
