@@ -20,10 +20,10 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Hi! I am Sheng Li. I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by [Dr. Xulong Tang](https://xzt102.github.io/). I received my B.E. degree in Software Engineering from [Sichuan University](https://en.scu.edu.cn/), China, in 2020. 
-My research focuses on designing and optimizing efficient machine learning algorithms and systems, spanning applications in diffusion-based video generation, self-supervised contrastive learning, and supervised model training. I also work on 3D-related algorithms and systems, such as efficient 3D Gaussian Splatting. My research targets diverse platforms, ranging from powerful cloud clusters to resource-constrained edge devices.
+My research focuses on designing and optimizing Efficient Machine Learning Algorithms and Systems, spanning applications in Diffusion-based Video Generation, RAG-enabled LLM Serving, Self-supervised Contrastive Learning, Supervised Model Training, and 3D Gaussian Splatting. My research targets platforms ranging from large-scale cloud clusters to resource-constrained edge devices.
 
 
-<!-- :sparkles: I am currently seeking both full-time and internship opportunities in positions including, but not limited to, Research Scientist, Applied Scientist, Research Engineer, Machine Learning Engineer, and Software Development Engineer. Please feel free to contact me if you have any suitable opportunities. -->
+:sparkles: I am currently seeking both full-time and internship opportunities in positions including, but not limited to, Research Scientist, Applied Scientist, Research Engineer, Machine Learning Engineer, and Software Development Engineer. Please feel free to contact me if you have any suitable opportunities.
 
 
 
