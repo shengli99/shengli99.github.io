@@ -5,6 +5,7 @@ inline: true
 related_posts: false
 ---
 
+
 Two first-author papers on Efficient Video Diffusion are submitted to CVPR2026!
 
 <!-- ---
