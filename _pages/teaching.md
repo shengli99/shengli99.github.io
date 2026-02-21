@@ -25,10 +25,13 @@ nav_order: 3
 
 <ul style="margin:0 0 30px;">
     <li>
-        Teaching Assistant for <strong>CS 1501: Algorithms and Data Structures</strong>
+        Teaching Assistant for <strong>CS 0447: Computer Organization and Assembly Language</strong>
     </li>
     <li>
-        Teaching Assistant for <strong>CS 0447: Computer Organization and Assembly Language</strong>
+        Teaching Assistant for <strong>CS 0449: Introduction to Systems Software</strong>
+    </li>
+    <li>
+        Teaching Assistant for <strong>CS 1501: Algorithms and Data Structures</strong>
     </li>
 </ul>
 
