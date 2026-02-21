@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2026-02-20 07:59:00-0400
+date: 2026-02-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
 
-One paper is accepted to CVPR 2026. This is the intern project in Adobe! Thanks to all collaborators!
+One first-author paper on Efficient Video Diffusion is submitted to ECCV2026!
 
 <!-- ---
 layout: post
