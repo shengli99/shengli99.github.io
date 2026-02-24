@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>
-  Hi! I am Sheng Li. I am currently a Ph.D. student in
+  Hi! I am Sheng Li. I am currently a final-year Ph.D. student in
   <a href="https://www.cs.pitt.edu/">Department of Computer Science</a> at the
   <a href="https://www.pitt.edu/">University of Pittsburgh</a>, advised by
   <a href="https://xzt102.github.io/">Dr. Xulong Tang</a>. I received my B.E. degree in Software Engineering from
