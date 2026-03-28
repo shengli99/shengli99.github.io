@@ -31,7 +31,7 @@ social: false # includes social icons at the bottom of the page
   My research focuses on designing and optimizing Efficient Machine Learning Algorithms and Systems, spanning applications in Diffusion-based Video Generation, RAG-enabled LLM Serving, Self-supervised Contrastive Learning, Supervised Model Training, and 3D Gaussian Splatting. My research targets platforms ranging from large-scale cloud clusters to resource-constrained edge devices.
 </p>
 
-<p class="about-job-note">&#10024; I am currently seeking both full-time and internship opportunities in positions including, but not limited to, Research Scientist, Applied Scientist, Research Engineer, Machine Learning Engineer, and Software Development Engineer. Please feel free to contact me if you have any suitable opportunities.</p>
+<!-- <p class="about-job-note">&#10024; I am currently seeking full-time positions including, but not limited to, Research Scientist, Applied Scientist, Research Engineer, Machine Learning Engineer, and Software Development Engineer. Please feel free to contact me if you have any suitable opportunities.</p> -->
 
 
 
