@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2026-05-18 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+Joining Apple as an Intern during the Summer!
+
+<!-- ---
+layout: post
+date: 2016-01-15 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
