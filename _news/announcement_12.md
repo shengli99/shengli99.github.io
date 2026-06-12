@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Joining Apple as a Summer Intern!
+Joining Apple as a Research Intern!
 
 <!-- ---
 layout: post
