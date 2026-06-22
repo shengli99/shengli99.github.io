@@ -14,17 +14,24 @@
         {% else %}
           {% assign news_limit = news_size %}
         {% endif %}
-        {% for item in news limit: news_limit %}
-          <tr>
-            <th scope="row" style="width: 16%">{{ item.date | date: '%m/%Y' }}</th>
-            <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endif %}
-            </td>
-          </tr>
+        {% assign shown_news_count = 0 %}
+        {% for item in news %}
+          {% unless item.hidden %}
+            {% if shown_news_count >= news_limit %}
+              {% break %}
+            {% endif %}
+            <tr>
+              <th scope="row" style="width: 16%">{{ item.date | date: '%m/%Y' }}</th>
+              <td>
+                {% if item.inline %}
+                  {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% else %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
+              </td>
+            </tr>
+            {% assign shown_news_count = shown_news_count | plus: 1 %}
+          {% endunless %}
         {% endfor %}
       </table>
     </div>
