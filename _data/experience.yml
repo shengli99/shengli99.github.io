@@ -1,3 +1,14 @@
+- organization: Apple
+  logo: Apple_logo_black.png
+  period: May 2026 - Present
+  title: Research Intern
+  mentors:
+    - name: Zhanghao Sun
+      prefix: Dr.
+    - name: Tianyi Zhang
+      prefix: Dr.
+  topic: Efficient and effective image/video generation
+
 - organization: Adobe Research
   logo: adobe.png
   period: May 2025 – present
